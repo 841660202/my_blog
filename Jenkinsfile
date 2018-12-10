@@ -23,14 +23,14 @@ pipeline {
         }
         stage('制作docker_image') {
             steps {
-                sh 'docker build -t hexo-blog .'
-                sh 'docker images'
+                sh 'sudo docker build -t hexo-blog .'
+                sh 'sudo docker images'
             }
         }
         stage('运行docker_image') {
             steps {
-                sh 'docker run -p 4000:80 -d --name hexo-blog hexo-blog'
-                sh 'docker stop node'
+                sh 'sudo docker run -p 4000:80 -d --name hexo-blog hexo-blog'
+                sh 'sudo docker stop node'
             }
         }
     }
