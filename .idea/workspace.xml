@@ -45,9 +45,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret lean-forward="true" />
-              </first_editor>
+              <first_editor />
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -99,6 +97,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/aero-dual" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/themes/aero-dual" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,11 +192,6 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -254,26 +252,25 @@
       <workItem from="1544347312913" duration="20171000" />
       <workItem from="1544407723892" duration="164000" />
       <workItem from="1544412682319" duration="23000" />
-      <workItem from="1544441408701" duration="2873000" />
+      <workItem from="1544441408701" duration="3266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23231000" />
+    <option name="totallyTimeSpent" value="23624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="202" y="23" width="1127" height="841" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info id="DB Browser" order="3" weight="0.32980973" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="1" visible="true" weight="0.46324548" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.33841887" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.46324548" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.33841887" />
       <window_info anchor="bottom" id="RNConsole" order="10" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49270073" visible="true" weight="0.24050634" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49270073" visible="true" weight="0.24050634" />
       <window_info id="Project Explorer" order="3" weight="0.32980973" />
       <window_info id="Job Explorer" order="3" weight="0.32980973" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -659,9 +656,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret lean-forward="true" />
-          </first_editor>
+          <first_editor />
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
