@@ -35,8 +35,8 @@
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="322">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -234,12 +234,12 @@
       <workItem from="1544347312913" duration="20171000" />
       <workItem from="1544407723892" duration="164000" />
       <workItem from="1544412682319" duration="23000" />
-      <workItem from="1544441408701" duration="1725000" />
+      <workItem from="1544441408701" duration="2044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22083000" />
+    <option name="totallyTimeSpent" value="22402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="296" y="23" width="1127" height="841" extended-state="0" />
@@ -250,10 +250,10 @@
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3398058" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="1" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.33841887" />
       <window_info anchor="bottom" id="RNConsole" order="10" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49270073" visible="true" weight="0.24050634" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49270073" visible="true" weight="0.24050634" />
       <window_info id="Project Explorer" order="3" weight="0.32980973" />
       <window_info id="Job Explorer" order="3" weight="0.32980973" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -272,6 +272,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -617,8 +643,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="322">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
         </state>
       </provider>
     </entry>

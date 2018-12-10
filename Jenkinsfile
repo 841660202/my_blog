@@ -1,4 +1,5 @@
 pipeline {
+    agent any
     environment {
         CI = 'true'
     }
@@ -24,6 +25,7 @@ pipeline {
         stage('运行docker_image') {
             steps {
                 sh 'docker run -p 4000:80 -d --name hexo-blog hexo-blog'
+                sh 'docker stop node'
             }
         }
     }
