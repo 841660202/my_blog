@@ -21,6 +21,11 @@ pipeline {
                 sh 'hexo g'
             }
         }
+        stage('查看环境') {
+            steps {
+                sh 'echo $PATH'
+            }
+        }
         stage('制作image') {
             steps {
                 sh 'docker -v'
