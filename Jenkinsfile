@@ -21,8 +21,9 @@ pipeline {
                 sh 'hexo g'
             }
         }
-        stage('制作docker_image') {
+        stage('制作image') {
             steps {
+                sh 'docker -v'
                 sh 'docker build -t blog .'
                 sh 'docker images'
             }
