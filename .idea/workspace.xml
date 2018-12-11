@@ -35,8 +35,8 @@
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="45">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -183,8 +183,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="346" />
-    <option name="y" value="23" />
+    <option name="x" value="259" />
+    <option name="y" value="46" />
     <option name="width" value="1127" />
     <option name="height" value="841" />
   </component>
@@ -269,16 +269,15 @@
       <workItem from="1544407723892" duration="164000" />
       <workItem from="1544412682319" duration="23000" />
       <workItem from="1544441408701" duration="6966000" />
-      <workItem from="1544455350025" duration="565000" />
+      <workItem from="1544455350025" duration="900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27889000" />
+    <option name="totallyTimeSpent" value="28224000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="346" y="23" width="1127" height="841" extended-state="0" />
-    <editor active="true" />
+    <frame x="259" y="46" width="1127" height="841" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info id="DB Browser" order="3" weight="0.32980973" />
@@ -676,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
